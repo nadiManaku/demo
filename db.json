@@ -1,43 +1,43 @@
 {
   "pumps": [
-  {
-    "id": 59252801,
-    "name": 1,
+    {
+    "id": "a59252801",
+    "name": "A1",
     "status": "IDLE"
   },
   {
-    "id": 59252802,
-    "name": 2,
+    "id": "a59252802",
+    "name": "A2",
     "status": "FUELING"
   },
-      {
-    "id": 59252803,
-    "name": 3,
+  {
+    "id": "a59252803",
+    "name": "A3",
     "status": "IDLE"
   },
     {
-    "id": 59252804,
-    "name": 4,
+    "id": "a59252804",
+    "name": "A4",
     "status": "IDLE"
   },
   {
-    "id": 59252805,
-    "name": 5,
+    "id": "a59252805",
+    "name": "A5",
     "status": "WAITING_FOR_PAYMENT"
   },
   {
-    "id": 59252806,
-    "name": 6,
+    "id": "59252806",
+    "name": "A6",
     "status": "UNKNOWN"
   },
   {
-    "id": 59252807,
-    "name": 7,
+    "id": "a59252807",
+    "name": "A7",
     "status": "WAITING_FOR_PAYMENT"
   },
   {
-    "id": 59252808,
-    "name": 8,
+    "id": "a59252808",
+    "name": "A8",
     "status": "IDLE"
   }
 ]
