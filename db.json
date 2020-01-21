@@ -1,31 +1,6 @@
 {
   "response":
-  {
-    "id": "id",
-    "address": "MollStraße 10, 53842 Troisdorf",
-    "brand": "HEM",
-    "imageUrl": "https://img-1.thinxcloud.de/petrolstations/huth.jpg",
-    "status": "ONLINE",
-    "fuelPrices": [
-        {
-            "name": "Super E10",
-            "price": {
-                "gross": 1.239,
-                "currency": "EURO"
-            }
-        },
-        {
-            "name": "Super E10",
-            "price": {
-                "gross": 1.239,
-                "currency": "EURO"
-            }
-        }
-    ]
-  }
-},
-{
-  "pumps": [
+  [
   {
     "id": "59252801",
     "name": "1",
